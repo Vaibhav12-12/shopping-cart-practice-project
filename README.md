@@ -1,0 +1,1 @@
+A shopping cart made with react.js. This project was made for some react practice with the guidance of youtube videos.
